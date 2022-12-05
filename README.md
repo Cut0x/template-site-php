@@ -1,3 +1,4 @@
+[def]: ./image.PNG
 # Template de site utilisant **PHP** !
 
 ```diff
@@ -10,5 +11,3 @@
 # Comment utiliser le template ?
 Il vous suffit de cliquer sur **Use this template** en haut à droite des fichiers du projet *(voir image ci dessous)*.
 ![image][def]
-
-[def]: ./image.PNG
