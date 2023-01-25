@@ -1,5 +1,5 @@
 <?php
-    require_once('./Data/config.php');
+    require_once './Data/config.php';
 
     // Votre code ici
 ?>
